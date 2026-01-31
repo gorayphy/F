@@ -1,7 +1,7 @@
 # Site settings
 title: Academic Records
 description: Personal Academic and Professional Records
-baseurl: "/Aca" # change to subpath if hosted under a folder (e.g., "/records")
+baseurl: "/F" # change to subpath if hosted under a folder (e.g., "/records")
 url: ""     # change to your site URL if deploying (e.g., "https://yourdomain.com")
 
 # Build settings
